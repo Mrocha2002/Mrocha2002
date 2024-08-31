@@ -13,21 +13,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://github.com/matheus-rocha/matheus-rocha/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" />
-</div>
-
----
-
-## 🔥 Estatísticas e Contribuições
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheus-rocha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-rocha&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
----
-
 ## 🌐 Entre em Contato
 
 <div align="center">
