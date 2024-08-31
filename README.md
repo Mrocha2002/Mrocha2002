@@ -1,8 +1,19 @@
-Aluno de Analise de Sistemas / 2º semestre
+# Olá, eu sou o Matheus Rocha! 👋
 
-- 👋 Hi, I’m @Mrocha2002
+🎓 Estudante de Análise de Sistemas - 2º Semestre - 22 anos
 
-<!---
-Mrocha2002/Mrocha2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+![Piccolo](https://i.redd.it/2uha1pm7gbt91.gif)
+
+---
+
+## Sobre mim
+
+Estou sempre em busca de novos desafios e oportunidades para crescer.
+
+---
+
+### Entre em contato:
+- [LinkedIn](www.linkedin.com/in/matheus-rocha-894921266)
+- [E-mail](rochamts2002@gmail.com)
