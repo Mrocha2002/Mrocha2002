@@ -15,5 +15,5 @@ Estou sempre em busca de novos desafios e oportunidades para crescer.
 ---
 
 ### Entre em contato:
-- [LinkedIn](www.linkedin.com/in/matheus-rocha-894921266)
+- [LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
 - [E-mail](rochamts2002@gmail.com)
