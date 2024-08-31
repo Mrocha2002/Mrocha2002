@@ -8,6 +8,9 @@
 
 ---
 
+![Snake animation](https://github.com/matheus-rocha/matheus-rocha/blob/output/github-contribution-grid-snake.svg)
+
+
 ## Sobre mim
 
 Estou sempre em busca de novos desafios e oportunidades para crescer.
