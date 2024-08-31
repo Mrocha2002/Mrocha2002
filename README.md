@@ -8,7 +8,7 @@
 
 ---
 
-![Snake animation](https://github.com/matheus-rocha/matheus-rocha/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/matheus-rocha/Mrocha2002/blob/output/github-contribution-grid-snake.svg)
 
 
 ## Sobre mim
