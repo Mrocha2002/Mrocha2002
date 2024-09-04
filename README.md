@@ -1,6 +1,8 @@
+<div align="center">
+  
 # Eai Rapaziada!!! Sejam Bem Vindos ao meu GitHub!
 
-<div align="center">
+
   
   <img src="https://i.redd.it/2uha1pm7gbt91.gif" alt="Piccolo" width="200" style="display:inline-block;"/>
   
