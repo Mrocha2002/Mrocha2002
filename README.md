@@ -3,28 +3,24 @@
 # Eai Rapaziada!!! Sejam Bem Vindos ao meu GitHub!
 
 <div align="center">
-  
   <img src="https://i.redd.it/2uha1pm7gbt91.gif" alt="Piccolo" width="200" style="display:inline-block;"/>
-
-  
 </div>
 
 ---
-
 
 ## Sobre Mim
 
 🖥️ **Análise de Sistemas**  
 ⏳ **2º Semestre | 22 anos**  
 
-
+<div align="center">
   <img src="https://img.icons8.com/color/32/000000/python--v1.png" alt="Python" width="32"/>
   <img src="https://img.icons8.com/color/32/000000/microsoft-excel-2019.png" alt="Excel" width="32"/>
   <img src="https://img.icons8.com/color/32/000000/c-programming.png" alt="C" width="32"/>
   <img src="https://img.icons8.com/color/32/000000/html-5.png" alt="HTML" width="32"/>
+</div>
 
 ---
-
 
 ## 🌐 Entre em Contato
 
