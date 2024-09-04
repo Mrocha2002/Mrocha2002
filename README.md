@@ -18,10 +18,10 @@
 ⏳ **2º Semestre | 22 anos**  
 
 <div align="center">
-  <img src="https://img.icons8.com/color/96/000000/python--v1.png" alt="Python" width="80"/>
-  <img src="https://img.icons8.com/color/96/000000/microsoft-excel-2019.png" alt="Excel" width="80"/>
-  <img src="https://img.icons8.com/color/96/000000/c-programming.png" alt="C" width="80"/>
-  <img src="https://img.icons8.com/color/96/000000/html-5.png" alt="HTML" width="80"/>
+  <img src="https://img.icons8.com/color/64/000000/python--v1.png" alt="Python" width="64"/>
+  <img src="https://img.icons8.com/color/64/000000/microsoft-excel-2019.png" alt="Excel" width="64"/>
+  <img src="https://img.icons8.com/color/64/000000/c-programming.png" alt="C" width="64"/>
+  <img src="https://img.icons8.com/color/64/000000/html-5.png" alt="HTML" width="64"/>
 </div>
 
 ---
