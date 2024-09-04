@@ -12,8 +12,8 @@
 🗓️ **2º Semestre | 22 anos**  
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" width="80"/>
-  <img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" width="80"/>
+  <img src="https://img.icons8.com/color/96/000000/python--v1.png" alt="Python" width="80"/>
+  <img src="https://img.icons8.com/color/96/000000/microsoft-excel-2019.png" alt="Excel" width="80"/>
 </div>
 
 ---
@@ -22,6 +22,10 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/matheus-rocha-894921266/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
+---
+
 </div>
 
 ---
