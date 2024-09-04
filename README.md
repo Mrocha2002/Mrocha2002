@@ -7,12 +7,12 @@
 </div>
 
 <div align="center">
-  <img src="https://i.redd.it/2uha1pm7gbt91.gif" alt="Piccolo" width="400"/>
+  <img src="https://i.redd.it/2uha1pm7gbt91.gif" alt="Piccolo" width="200"/>
 </div>
 
 ---
 <div align="center">
-  
+
 ## Sobre Mim
 
 🖥️ **Análise de Sistemas**  
@@ -27,7 +27,7 @@
 
 ---
 <div align="center">
-  
+
 ## 🌐 Entre em Contato
 
 
