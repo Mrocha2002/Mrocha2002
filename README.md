@@ -1,6 +1,4 @@
-
-  
-# Eai Rapaziada!!! Sejam Bem Vindos ao meu GitHub!
+# Eai Rapaziada!!! Sejam Bem Vindos!
 
 🖥️ **Análise de Sistemas**  
 
