@@ -22,7 +22,16 @@
 
 ## 📊 Linguagens Mais Usadas
 
-```plaintext
-Excel avançado: ███████████████████████████████████████████████████ 90%
-Python iniciante: ████████████ 40%
-C intermediário: ████████████████ 60%
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=radical&layout=compact&card_width=400)
+
+> **Substitua `yourusername` pelo seu nome de usuário no GitHub.**
+
+---
+
+## 🌐 Entre em Contato
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/matheus-rocha-894921266/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
+---
