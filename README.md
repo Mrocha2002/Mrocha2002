@@ -1,8 +1,10 @@
 # Eai Rapaziada!!! Sejam Bem Vindos ao meu GitHub!
 
 <div align="center">
+  
   <img src="https://i.redd.it/2uha1pm7gbt91.gif" alt="Piccolo" width="200" style="display:inline-block;"/>
   ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrocha2002&theme=radical&layout=compact&card_width=400)
+  
 </div>
 
 ---
