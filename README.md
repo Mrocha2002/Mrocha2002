@@ -1,4 +1,6 @@
-# Olá, eu sou o Matheus Rocha! 👋
+# Eai Rapaziada!!!
+# Sejam Bem Vindos ao meu GitHub!
+
 <div align="center">
   
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrocha2002&theme=radical&layout=compact&card_width=400)
@@ -11,10 +13,10 @@
 
 ---
 
-## 🚀 Sobre Mim
+## Sobre Mim
 
-🎓 **Análise de Sistemas**  
-🗓️ **2º Semestre | 22 anos**  
+🖥️ **Análise de Sistemas**  
+⏳ **2º Semestre | 22 anos**  
 
 <div align="center">
   <img src="https://img.icons8.com/color/96/000000/python--v1.png" alt="Python" width="80"/>
