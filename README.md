@@ -23,12 +23,8 @@
   <img src="https://img.icons8.com/color/96/000000/html-5.png" alt="HTML" width="80"/>
 </div>
 
----
-
 ## 🌐 Entre em Contato
 
 <div align="center">
   <a href="https://www.linkedin.com/in/matheus-rocha-894921266/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
----
