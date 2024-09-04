@@ -3,7 +3,6 @@
 # Eai Rapaziada!!! Sejam Bem Vindos ao meu GitHub!
 
 🖥️ **Análise de Sistemas**  
-⏳ **2º Semestre | 22 anos**  
 
 <div align="center">
   <img src="https://i.redd.it/2uha1pm7gbt91.gif" alt="Piccolo" width="200" style="display:inline-block;"/>
