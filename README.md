@@ -22,9 +22,7 @@
 
 ## 📊 Linguagens Mais Usadas
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=radical&layout=compact&card_width=400)
-
-> **Substitua `yourusername` pelo seu nome de usuário no GitHub.**
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrocha2002&theme=radical&layout=compact&card_width=400)
 
 ---
 
