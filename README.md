@@ -20,10 +20,9 @@
 
 ---
 
-## 🌐 Entre em Contato
+## 📊 Linguagens Mais Usadas
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/matheus-rocha-894921266/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-
----
+```plaintext
+Excel avançado: ███████████████████████████████████████████████████ 90%
+Python iniciante: ████████████ 40%
+C intermediário: ████████████████ 60%
