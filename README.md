@@ -9,8 +9,6 @@
 <div align="center">
   <img src="https://img.icons8.com/color/32/000000/python--v1.png" alt="Python" width="32"/>
   <img src="https://img.icons8.com/color/32/000000/microsoft-excel-2019.png" alt="Excel" width="32"/>
-  <img src="https://img.icons8.com/color/32/000000/c-programming.png" alt="C" width="32"/>
-  <img src="https://img.icons8.com/color/32/000000/html-5.png" alt="HTML" width="32"/>
 </div>
 
 <div align="center">
