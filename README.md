@@ -1,6 +1,6 @@
 # Eai!
 
-🖥️ **Data Analysis**  | 🎨 **Graphic Designer** | 🌐 **CyberSecurity**
+🖥️ **Data Analysis**  | 🤖 **Automation** | 🌐 **CyberSecurity**
 
 <div align="center">
   <img src="https://i.redd.it/2uha1pm7gbt91.gif" alt="Piccolo" width="200" style="display:inline-block;"/>
