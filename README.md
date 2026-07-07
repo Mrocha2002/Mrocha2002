@@ -1,6 +1,10 @@
 # Eai!
 
-🖥️ **Data Analysis**  | 🤖 **Automation** | 🌐 **CyberSecurity**
+📊 **Data Analysis**  | 🤖 **Process Automation** | 🌐 **CyberSecurity**
+🎓 Computer Science student
+💻 Graduate in Systems Analysis and Development
+🚀 Building solutions through code, automation, and AI
+
 
 <div align="center">
   <img src="https://i.redd.it/2uha1pm7gbt91.gif" alt="Piccolo" width="200" style="display:inline-block;"/>
