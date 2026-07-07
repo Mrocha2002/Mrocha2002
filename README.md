@@ -3,7 +3,9 @@
 📊 **Data Analysis**  | 🤖 **Process Automation** | 🌐 **CyberSecurity**
 
 🎓 Computer Science student
+
 💻 Graduate in Systems Analysis and Development
+
 🚀 Building solutions through code, automation, and AI
 
 
